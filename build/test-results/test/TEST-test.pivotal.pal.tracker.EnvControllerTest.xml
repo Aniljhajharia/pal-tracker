@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test.pivotal.pal.tracker.EnvControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-18T09:04:44" hostname="pal8-OptiPlex-7050" time="0.03">
+<testsuite name="test.pivotal.pal.tracker.EnvControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-18T11:22:36" hostname="pal8-OptiPlex-7050" time="0.028">
   <properties/>
-  <testcase name="getEnv" classname="test.pivotal.pal.tracker.EnvControllerTest" time="0.03"/>
+  <testcase name="getEnv" classname="test.pivotal.pal.tracker.EnvControllerTest" time="0.028"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
