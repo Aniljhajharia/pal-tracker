@@ -19,15 +19,15 @@ plugins {
     id "java"
     id "org.flywaydb.flyway" version "5.2.4"
 }
-springBoot {
-    buildInfo()
-}
+
 apply plugin: 'org.springframework.boot'
 
 repositories {
     mavenCentral()
 }
-
+springBoot {
+    buildInfo()
+}
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-web:$springBootVersion")
     compile("org.springframework.boot:spring-boot-starter-jdbc:$springBootVersion")
